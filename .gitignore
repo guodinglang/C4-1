@@ -22,3 +22,9 @@ Project/mdk_v5/listings/
 # MDK閰嶇疆缂撳瓨
 *.uvoptx
 *.uvopt
+
+# Keil界面布局缓存
+*.uvguix.*
+
+
+
