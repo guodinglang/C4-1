@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=DAC_PART.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=DAC_PART.SchDoc|FileName=DC_BOOST_PART.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=DAC_PART.SchDoc|FileName=MCU_PART.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=DAC_PART.SchDoc|FileName=POWER_PART.SchDoc|SheetNumber= 
