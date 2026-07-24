@@ -1,0 +1,24 @@
+# MDK Keil 编译产物 全量屏蔽
+Project/mdk_v5/objects/
+Project/mdk_v5/listings/
+
+# 单个编译文件后缀
+*.o
+*.map
+*.uvguix.*
+*.axf
+*.hex
+*.bin
+*.crf
+*.d
+*.dep
+*.htm
+*.iex
+*.lnp
+*.sct
+*.tra
+*.scvd
+
+# MDK配置缓存
+*.uvoptx
+*.uvopt
